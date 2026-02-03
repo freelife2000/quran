@@ -1,0 +1,16 @@
+{
+  "resource_id": 36,
+  "fetched_at": 1770137033,
+  "resource_info": {
+    "id": 36,
+    "name": "Korean",
+    "author_name": "Korean",
+    "slug": "ko-unknown",
+    "language_name": "korean",
+    "translated_name": {
+      "name": "Korean",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

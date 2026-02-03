@@ -1,0 +1,16 @@
+{
+  "resource_id": 44,
+  "fetched_at": 1770137037,
+  "resource_info": {
+    "id": 44,
+    "name": "Grigore",
+    "author_name": "George Grigore",
+    "slug": "ro-grigore",
+    "language_name": "Romanian",
+    "translated_name": {
+      "name": "Grigore",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

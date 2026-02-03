@@ -1,0 +1,16 @@
+{
+  "resource_id": 41,
+  "fetched_at": 1770137037,
+  "resource_info": {
+    "id": 41,
+    "name": "Norwegian",
+    "author_name": "Norwegian",
+    "slug": "no-unknown",
+    "language_name": "norwegian",
+    "translated_name": {
+      "name": "Norwegian",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

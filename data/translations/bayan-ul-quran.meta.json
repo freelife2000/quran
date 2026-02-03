@@ -1,0 +1,16 @@
+{
+  "resource_id": 158,
+  "fetched_at": 1770137015,
+  "resource_info": {
+    "id": 158,
+    "name": "Bayan-ul-Quran",
+    "author_name": "Dr. Israr Ahmad",
+    "slug": "bayan-ul-quran",
+    "language_name": "urdu",
+    "translated_name": {
+      "name": "Bayan-ul-Quran (Dr. Israr Ahmad)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

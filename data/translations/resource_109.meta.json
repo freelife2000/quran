@@ -1,0 +1,16 @@
+{
+  "resource_id": 109,
+  "fetched_at": 1770137054,
+  "resource_info": {
+    "id": 109,
+    "name": "Muhammad Makin",
+    "author_name": "Muhammad Makin",
+    "slug": null,
+    "language_name": "chinese",
+    "translated_name": {
+      "name": "Muhammad Makin",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

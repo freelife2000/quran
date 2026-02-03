@@ -1,0 +1,16 @@
+{
+  "resource_id": 126,
+  "fetched_at": 1770137052,
+  "resource_info": {
+    "id": 126,
+    "name": "Besim Korkut",
+    "author_name": "Besim Korkut",
+    "slug": null,
+    "language_name": "bosnian",
+    "translated_name": {
+      "name": "Besim Korkut",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

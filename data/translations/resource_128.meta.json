@@ -1,0 +1,16 @@
+{
+  "resource_id": 128,
+  "fetched_at": 1770137031,
+  "resource_info": {
+    "id": 128,
+    "name": "Cambodian Muslim Community Development",
+    "author_name": "Cambodian Muslim Community Development",
+    "slug": null,
+    "language_name": "central khmer",
+    "translated_name": {
+      "name": "Cambodian Muslim Community Development",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

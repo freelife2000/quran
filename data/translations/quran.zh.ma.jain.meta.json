@@ -1,0 +1,16 @@
+{
+  "resource_id": 56,
+  "fetched_at": 1770137043,
+  "resource_info": {
+    "id": 56,
+    "name": "Chinese Translation (Simplified) - Ma Jain",
+    "author_name": "Ma Jian",
+    "slug": "quran.zh.ma.jain",
+    "language_name": "chinese",
+    "translated_name": {
+      "name": "Chinese Translation (Simplified) - Ma Jain",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

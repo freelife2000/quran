@@ -1,0 +1,16 @@
+{
+  "resource_id": 103,
+  "fetched_at": 1770137034,
+  "resource_info": {
+    "id": 103,
+    "name": "Helmi Nasr",
+    "author_name": "Helmi Nasr",
+    "slug": null,
+    "language_name": "portuguese",
+    "translated_name": {
+      "name": "Helmi Nasr",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

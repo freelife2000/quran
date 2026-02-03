@@ -1,0 +1,16 @@
+{
+  "resource_id": 220,
+  "fetched_at": 1770137028,
+  "resource_info": {
+    "id": 220,
+    "name": "Ruwwad Center",
+    "author_name": "Translation Pioneers Center",
+    "slug": null,
+    "language_name": "vietnamese",
+    "translated_name": {
+      "name": "Translation Pioneers Center",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

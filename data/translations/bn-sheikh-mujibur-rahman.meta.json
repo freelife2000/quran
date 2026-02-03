@@ -1,0 +1,16 @@
+{
+  "resource_id": 163,
+  "fetched_at": 1770137019,
+  "resource_info": {
+    "id": 163,
+    "name": "Sheikh Mujibur Rahman",
+    "author_name": "Darussalaam Publication",
+    "slug": "bn-sheikh-mujibur-rahman",
+    "language_name": "bengali",
+    "translated_name": {
+      "name": "Sheikh Mujibur Rahman",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

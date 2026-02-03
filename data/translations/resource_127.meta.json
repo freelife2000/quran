@@ -1,0 +1,16 @@
+{
+  "resource_id": 127,
+  "fetched_at": 1770137053,
+  "resource_info": {
+    "id": 127,
+    "name": "Muhammad Sodik Muhammad Yusuf",
+    "author_name": "Muhammad Sodik Muhammad Yusuf",
+    "slug": "",
+    "language_name": "uzbek",
+    "translated_name": {
+      "name": "Muhammad Sodik Muhammad Yusuf",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

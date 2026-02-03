@@ -1,0 +1,16 @@
+{
+  "resource_id": 51,
+  "fetched_at": 1770137045,
+  "resource_info": {
+    "id": 51,
+    "name": "Thai Translatio (King Fahad Quran Complex)",
+    "author_name": "King Fahad Quran Complex",
+    "slug": "quran.th.quran.complex",
+    "language_name": "thai",
+    "translated_name": {
+      "name": "Thai Translatio (King Fahad Quran Complex)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

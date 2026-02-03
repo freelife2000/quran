@@ -1,0 +1,16 @@
+{
+  "resource_id": 23,
+  "fetched_at": 1770137035,
+  "resource_info": {
+    "id": 23,
+    "name": "Azerbaijani",
+    "author_name": "Azerbaijani",
+    "slug": "az-unknown",
+    "language_name": "azeri",
+    "translated_name": {
+      "name": "Azerbaijani",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 49,
+  "fetched_at": 1770137030,
+  "resource_info": {
+    "id": 49,
+    "name": "Ali Muhsin Al-Barwani",
+    "author_name": "Ali Muhsin Al-Barwani",
+    "slug": "sw-ali-muhsin",
+    "language_name": "swahili",
+    "translated_name": {
+      "name": "Ali Muhsin Al-Barwani",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

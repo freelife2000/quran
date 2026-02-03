@@ -1,0 +1,16 @@
+{
+  "resource_id": 153,
+  "fetched_at": 1770137018,
+  "resource_info": {
+    "id": 153,
+    "name": "Hamza Roberto Piccardo",
+    "author_name": "Hamza Roberto Piccardo",
+    "slug": "hamza-roberto-piccardo",
+    "language_name": "italian",
+    "translated_name": {
+      "name": "Hamza Roberto Piccardo",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

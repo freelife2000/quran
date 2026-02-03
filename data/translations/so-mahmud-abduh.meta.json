@@ -1,0 +1,16 @@
+{
+  "resource_id": 46,
+  "fetched_at": 1770137040,
+  "resource_info": {
+    "id": 46,
+    "name": "Mahmud Muhammad Abduh",
+    "author_name": "Mahmud Muhammad Abduh",
+    "slug": "so-mahmud-abduh",
+    "language_name": "somali",
+    "translated_name": {
+      "name": "Mahmud Muhammad Abduh",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

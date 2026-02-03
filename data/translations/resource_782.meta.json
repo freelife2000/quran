@@ -1,0 +1,16 @@
+{
+  "resource_id": 782,
+  "fetched_at": 1770137058,
+  "resource_info": {
+    "id": 782,
+    "name": "Islamic and Cultural League",
+    "author_name": "Islamic and Cultural League",
+    "slug": "",
+    "language_name": "romanian",
+    "translated_name": {
+      "name": "Islamic and Cultural League",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

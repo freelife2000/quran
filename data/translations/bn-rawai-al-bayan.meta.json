@@ -1,0 +1,16 @@
+{
+  "resource_id": 162,
+  "fetched_at": 1770137019,
+  "resource_info": {
+    "id": 162,
+    "name": "Rawai Al-bayan",
+    "author_name": "Bayaan Foundation",
+    "slug": "bn-rawai-al-bayan",
+    "language_name": "bengali",
+    "translated_name": {
+      "name": "Rawai Al-bayan",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

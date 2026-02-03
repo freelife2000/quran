@@ -1,0 +1,16 @@
+{
+  "resource_id": 237,
+  "fetched_at": 1770137038,
+  "resource_info": {
+    "id": 237,
+    "name": "Tzvetan Theophanov",
+    "author_name": "Tzvetan Theophanov",
+    "slug": null,
+    "language_name": "Bulgarian",
+    "translated_name": {
+      "name": "Tzvetan Theophanov",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

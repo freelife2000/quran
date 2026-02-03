@@ -1,0 +1,16 @@
+{
+  "resource_id": 50,
+  "fetched_at": 1770137030,
+  "resource_info": {
+    "id": 50,
+    "name": "Jan Trust Foundation",
+    "author_name": "Jan Trust Foundation",
+    "slug": "ta-jan-trust",
+    "language_name": "tamil",
+    "translated_name": {
+      "name": "Jan Trust Foundation",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

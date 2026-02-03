@@ -1,0 +1,16 @@
+{
+  "resource_id": 229,
+  "fetched_at": 1770137021,
+  "resource_info": {
+    "id": 229,
+    "name": "Sheikh Omar Sharif bin Abdul Salam",
+    "author_name": "Sheikh Omar Sharif bin Abdul Salam",
+    "slug": null,
+    "language_name": "tamil",
+    "translated_name": {
+      "name": "Sheikh Omar Sharif bin Abdul Salam",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 226,
+  "fetched_at": 1770137024,
+  "resource_info": {
+    "id": 226,
+    "name": "Muhammad Shafi’i Ansari",
+    "author_name": "Muhammad Shafi’i Ansari",
+    "slug": null,
+    "language_name": "marathi",
+    "translated_name": {
+      "name": "Muhammad Shafi’i Ansari",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

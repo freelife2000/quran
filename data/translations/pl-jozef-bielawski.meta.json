@@ -1,0 +1,16 @@
+{
+  "resource_id": 42,
+  "fetched_at": 1770137037,
+  "resource_info": {
+    "id": 42,
+    "name": "Józef Bielawski",
+    "author_name": "Józef Bielawski",
+    "slug": "pl-jozef-bielawski",
+    "language_name": "polish",
+    "translated_name": {
+      "name": "Józef Bielawski",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

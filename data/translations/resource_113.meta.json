@@ -1,0 +1,16 @@
+{
+  "resource_id": 113,
+  "fetched_at": 1770137041,
+  "resource_info": {
+    "id": 113,
+    "name": "Khalifah Altai",
+    "author_name": "Khalifah Altai",
+    "slug": null,
+    "language_name": "kazakh",
+    "translated_name": {
+      "name": "Khalifah Altai",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

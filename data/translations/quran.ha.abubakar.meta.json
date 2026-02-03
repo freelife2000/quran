@@ -1,0 +1,16 @@
+{
+  "resource_id": 32,
+  "fetched_at": 1770137043,
+  "resource_info": {
+    "id": 32,
+    "name": "Hausa Translation(Abubakar Gumi)",
+    "author_name": "Abubakar Mahmoud Gumi",
+    "slug": "quran.ha.abubakar",
+    "language_name": "hausa",
+    "translated_name": {
+      "name": "Hausa Translation(Abubakar Gumi)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

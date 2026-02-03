@@ -1,0 +1,16 @@
+{
+  "resource_id": 139,
+  "fetched_at": 1770137017,
+  "resource_info": {
+    "id": 139,
+    "name": "Khawaja Mirof & Khawaja Mir",
+    "author_name": "Khawaja Mirof & Khawaja Mir",
+    "slug": null,
+    "language_name": "tajik",
+    "translated_name": {
+      "name": "Khawaja Mirof & Khawaja Mir",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

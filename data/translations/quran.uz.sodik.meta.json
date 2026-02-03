@@ -1,0 +1,16 @@
+{
+  "resource_id": 55,
+  "fetched_at": 1770137021,
+  "resource_info": {
+    "id": 55,
+    "name": "Muhammad Sodiq Muhammad Yusuf (Latin) ",
+    "author_name": "Muhammad Sodiq Muhammad Yusuf",
+    "slug": "quran.uz.sodik",
+    "language_name": "uzbek",
+    "translated_name": {
+      "name": "Muhammad Sodiq Muhammad Yusuf (Latin)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 218,
+  "fetched_at": 1770137051,
+  "resource_info": {
+    "id": 218,
+    "name": "Saeed Sato",
+    "author_name": "Saeed Sato",
+    "slug": null,
+    "language_name": "japanese",
+    "translated_name": {
+      "name": "Saeed Sato",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

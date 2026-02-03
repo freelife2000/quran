@@ -1,0 +1,16 @@
+{
+  "resource_id": 213,
+  "fetched_at": 1770137050,
+  "resource_info": {
+    "id": 213,
+    "name": "Dr. Abu Bakr Muhammad Zakaria",
+    "author_name": "Dr. Abu Bakr Muhammad Zakaria",
+    "slug": null,
+    "language_name": "bengali",
+    "translated_name": {
+      "name": "Dr. Abu Bakr Muhammad Zakaria",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

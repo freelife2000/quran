@@ -1,0 +1,16 @@
+{
+  "resource_id": 227,
+  "fetched_at": 1770137023,
+  "resource_info": {
+    "id": 227,
+    "name": "Maulana Abder-Rahim ibn Muhammad",
+    "author_name": "Maulana Abder-Rahim ibn Muhammad",
+    "slug": null,
+    "language_name": "telugu",
+    "translated_name": {
+      "name": "Maulana Abder-Rahim ibn Muhammad",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

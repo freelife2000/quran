@@ -1,0 +1,16 @@
+{
+  "resource_id": 77,
+  "fetched_at": 1770137032,
+  "resource_info": {
+    "id": 77,
+    "name": "Turkish Translation(Diyanet)",
+    "author_name": "Diyanet Isleri",
+    "slug": "quran.tr.diyanet",
+    "language_name": "turkish",
+    "translated_name": {
+      "name": "Turkish Translation(Diyanet)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

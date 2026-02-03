@@ -1,0 +1,16 @@
+{
+  "resource_id": 26,
+  "fetched_at": 1770137034,
+  "resource_info": {
+    "id": 26,
+    "name": "Czech",
+    "author_name": "Czech",
+    "slug": "cs-unknown",
+    "language_name": "czech",
+    "translated_name": {
+      "name": "Czech",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

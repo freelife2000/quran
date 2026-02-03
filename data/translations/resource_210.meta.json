@@ -1,0 +1,16 @@
+{
+  "resource_id": 210,
+  "fetched_at": 1770137019,
+  "resource_info": {
+    "id": 210,
+    "name": "Dar Al-Salam Center",
+    "author_name": "Dar Al-Salam Center",
+    "slug": null,
+    "language_name": "turkish",
+    "translated_name": {
+      "name": "Dar Al-Salam Center",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 230,
+  "fetched_at": 1770137027,
+  "resource_info": {
+    "id": 230,
+    "name": "Society of Institutes and Universities",
+    "author_name": "Society of Institutes and Universities",
+    "slug": "",
+    "language_name": "thai",
+    "translated_name": {
+      "name": "Society of Institutes and Universities",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

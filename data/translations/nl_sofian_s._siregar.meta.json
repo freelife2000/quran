@@ -1,0 +1,16 @@
+{
+  "resource_id": 144,
+  "fetched_at": 1770137029,
+  "resource_info": {
+    "id": 144,
+    "name": "Sofian S. Siregar",
+    "author_name": "Sofian S. Siregar",
+    "slug": "nl_sofian_s._siregar",
+    "language_name": "Dutch",
+    "translated_name": {
+      "name": "Sofian S. Siregar",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

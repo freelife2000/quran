@@ -1,0 +1,16 @@
+{
+  "resource_id": 136,
+  "fetched_at": 1770137016,
+  "resource_info": {
+    "id": 136,
+    "name": "Montada Islamic Foundation",
+    "author_name": "Montada Islamic Foundation",
+    "slug": null,
+    "language_name": "french",
+    "translated_name": {
+      "name": "Montada Islamic Foundation",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

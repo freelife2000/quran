@@ -1,0 +1,16 @@
+{
+  "resource_id": 39,
+  "fetched_at": 1770137032,
+  "resource_info": {
+    "id": 39,
+    "name": "Abdullah Muhammad Basmeih",
+    "author_name": "Abdullah Muhammad Basmeih",
+    "slug": "ms-abdullah",
+    "language_name": "malay",
+    "translated_name": {
+      "name": "Abdullah Muhammad Basmeih",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

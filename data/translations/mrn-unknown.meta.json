@@ -1,0 +1,16 @@
+{
+  "resource_id": 38,
+  "fetched_at": 1770137042,
+  "resource_info": {
+    "id": 38,
+    "name": "Maranao",
+    "author_name": "Maranao",
+    "slug": "mrn-unknown",
+    "language_name": "maranao",
+    "translated_name": {
+      "name": "Maranao",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 101,
+  "fetched_at": 1770137035,
+  "resource_info": {
+    "id": 101,
+    "name": "Alauddin Mansour",
+    "author_name": "Alauddin Mansour",
+    "slug": null,
+    "language_name": "uzbek",
+    "translated_name": {
+      "name": "Alauddin Mansour",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

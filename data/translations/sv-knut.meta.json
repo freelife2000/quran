@@ -1,0 +1,16 @@
+{
+  "resource_id": 48,
+  "fetched_at": 1770137031,
+  "resource_info": {
+    "id": 48,
+    "name": "Knut Bernström",
+    "author_name": "Knut Bernström",
+    "slug": "sv-knut",
+    "language_name": "swedish",
+    "translated_name": {
+      "name": "Knut Bernström",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 199,
+  "fetched_at": 1770137050,
+  "resource_info": {
+    "id": 199,
+    "name": "Noor International Center",
+    "author_name": "Noor International Center",
+    "slug": null,
+    "language_name": "spanish",
+    "translated_name": {
+      "name": "Noor International Center",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

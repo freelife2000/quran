@@ -1,0 +1,16 @@
+{
+  "resource_id": 135,
+  "fetched_at": 1770137016,
+  "resource_info": {
+    "id": 135,
+    "name": "IslamHouse.com",
+    "author_name": "IslamHouse.com",
+    "slug": null,
+    "language_name": "persian",
+    "translated_name": {
+      "name": "IslamHouse.com",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

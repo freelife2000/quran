@@ -1,0 +1,16 @@
+{
+  "resource_id": 798,
+  "fetched_at": 1770137059,
+  "resource_info": {
+    "id": 798,
+    "name": "Abdul Hamid Silika",
+    "author_name": "Abdul Hamid Silika",
+    "slug": null,
+    "language_name": "yau,yuw",
+    "translated_name": {
+      "name": "Abdul Hamid Silika",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

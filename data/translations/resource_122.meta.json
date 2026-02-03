@@ -1,0 +1,16 @@
+{
+  "resource_id": 122,
+  "fetched_at": 1770137052,
+  "resource_info": {
+    "id": 122,
+    "name": "Maulana Azizul Haque al-Umari",
+    "author_name": "Maulana Azizul Haque al-Umari",
+    "slug": null,
+    "language_name": "hindi",
+    "translated_name": {
+      "name": "Maulana Azizul Haque al-Umari",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

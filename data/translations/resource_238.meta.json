@@ -1,0 +1,16 @@
+{
+  "resource_id": 238,
+  "fetched_at": 1770137039,
+  "resource_info": {
+    "id": 238,
+    "name": "Taj Mehmood Amroti",
+    "author_name": "Taj Mehmood Amroti",
+    "slug": null,
+    "language_name": "Sindhi",
+    "translated_name": {
+      "name": "Taj Mehmood Amroti",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

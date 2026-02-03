@@ -1,0 +1,16 @@
+{
+  "resource_id": 819,
+  "fetched_at": 1770137055,
+  "resource_info": {
+    "id": 819,
+    "name": "Maulana Wahiduddin Khan",
+    "author_name": "Maulana Wahiduddin Khan",
+    "slug": "maulana-wahid-uddin-khan-urdu",
+    "language_name": "urdu",
+    "translated_name": {
+      "name": "Maulana Wahiduddin Khan",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

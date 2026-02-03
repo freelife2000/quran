@@ -1,0 +1,16 @@
+{
+  "resource_id": 25,
+  "fetched_at": 1770137048,
+  "resource_info": {
+    "id": 25,
+    "name": "Muhamed Mehanović",
+    "author_name": "Muhamed Mehanović",
+    "slug": "bs-unknown",
+    "language_name": "bosnian",
+    "translated_name": {
+      "name": "Muhamed Mehanović",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

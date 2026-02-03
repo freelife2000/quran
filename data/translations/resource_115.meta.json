@@ -1,0 +1,16 @@
+{
+  "resource_id": 115,
+  "fetched_at": 1770137045,
+  "resource_info": {
+    "id": 115,
+    "name": "Abubakar Mahmood Jummi",
+    "author_name": "Abubakar Mahmood Jummi",
+    "slug": null,
+    "language_name": "hausa",
+    "translated_name": {
+      "name": "Abubakar Mahmood Jummi",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 224,
+  "fetched_at": 1770137025,
+  "resource_info": {
+    "id": 224,
+    "name": "Abdul-Hamid Haidar & Kanhi Muhammad",
+    "author_name": "Abdul-Hamid Haidar & Kanhi Muhammad",
+    "slug": null,
+    "language_name": "malayalam",
+    "translated_name": {
+      "name": "Abdul-Hamid Haidar & Kanhi Muhammad",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

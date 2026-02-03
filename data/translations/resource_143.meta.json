@@ -1,0 +1,16 @@
+{
+  "resource_id": 143,
+  "fetched_at": 1770137022,
+  "resource_info": {
+    "id": 143,
+    "name": "Muhammad Saleh Bamoki",
+    "author_name": "Muhammad Saleh Bamoki",
+    "slug": null,
+    "language_name": "kurdish",
+    "translated_name": {
+      "name": "Muhammad Saleh Bamoki",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

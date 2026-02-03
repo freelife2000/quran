@@ -1,0 +1,16 @@
+{
+  "resource_id": 232,
+  "fetched_at": 1770137026,
+  "resource_info": {
+    "id": 232,
+    "name": "African Development Foundation",
+    "author_name": "African Development Foundation",
+    "slug": null,
+    "language_name": "ganda",
+    "translated_name": {
+      "name": "African Development Foundation",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

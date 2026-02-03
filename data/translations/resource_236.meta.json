@@ -1,0 +1,16 @@
+{
+  "resource_id": 236,
+  "fetched_at": 1770137039,
+  "resource_info": {
+    "id": 236,
+    "name": "Ramdane At Mansour",
+    "author_name": "Ramdane At Mansour",
+    "slug": null,
+    "language_name": "Amazigh",
+    "translated_name": {
+      "name": "Ramdane At Mansour",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

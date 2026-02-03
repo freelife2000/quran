@@ -1,0 +1,16 @@
+{
+  "resource_id": 214,
+  "fetched_at": 1770137023,
+  "resource_info": {
+    "id": 214,
+    "name": "Dar Al-Salam Center",
+    "author_name": "Dar Al-Salam Center",
+    "slug": null,
+    "language_name": "bosnian",
+    "translated_name": {
+      "name": "Dar Al-Salam Center",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

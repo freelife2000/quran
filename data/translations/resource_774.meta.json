@@ -1,0 +1,16 @@
+{
+  "resource_id": 774,
+  "fetched_at": 1770137060,
+  "resource_info": {
+    "id": 774,
+    "name": "The Rwanda Muslims Association team",
+    "author_name": "The Rwanda Muslims Association team",
+    "slug": null,
+    "language_name": "kinyarwanda",
+    "translated_name": {
+      "name": "The Rwanda Muslims Association team",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 43,
+  "fetched_at": 1770137044,
+  "resource_info": {
+    "id": 43,
+    "name": "Portuguese Translation( Samir )",
+    "author_name": "Samir El-Hayek",
+    "slug": "quran,pt.samir",
+    "language_name": "portuguese",
+    "translated_name": {
+      "name": "Portuguese Translation( Samir )",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

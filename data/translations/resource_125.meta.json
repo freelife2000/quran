@@ -1,0 +1,16 @@
+{
+  "resource_id": 125,
+  "fetched_at": 1770137040,
+  "resource_info": {
+    "id": 125,
+    "name": "Shaykh Abu Rahimah Mikael Aykyuni",
+    "author_name": "Shaykh Abu Rahimah Mikael Aykyuni",
+    "slug": null,
+    "language_name": "yoruba",
+    "translated_name": {
+      "name": "Shaykh Abu Rahimah Mikael Aykyuni",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 53,
+  "fetched_at": 1770137036,
+  "resource_info": {
+    "id": 53,
+    "name": "Tatar",
+    "author_name": "Tatar",
+    "slug": "tt-unknow",
+    "language_name": "tatar",
+    "translated_name": {
+      "name": "Tatar",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

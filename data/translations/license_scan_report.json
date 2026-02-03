@@ -1,0 +1,134 @@
+[
+  {
+    "resource_id": 203,
+    "filename": "Al-Hilali___Khan",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 75,
+    "filename": "az-alikhan",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 149,
+    "filename": "bridges-translation",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 86,
+    "filename": "dv-unknow",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 95,
+    "filename": "en-al-maududi",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 85,
+    "filename": "en-haleem",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 20,
+    "filename": "en-sahih-international",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 84,
+    "filename": "en-taqi-usmani",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 83,
+    "filename": "es-isa-garcia",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 80,
+    "filename": "ml-karakunnu",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 19,
+    "filename": "quran.en.pickthall",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 22,
+    "filename": "quran.en.yusufali",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 19,
+    "filename": null,
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 20,
+    "filename": null,
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 22,
+    "filename": null,
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 79,
+    "filename": "ru-abu-adel",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 78,
+    "filename": "ru-ministry-of-awqaf",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 57,
+    "filename": "transliteration",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 76,
+    "filename": "ug-saleh",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 234,
+    "filename": "ur-fatah-muhammad-jalandhari",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 54,
+    "filename": "ur-junagarri",
+    "found": false,
+    "detail": null
+  },
+  {
+    "resource_id": 156,
+    "filename": "urdu-sayyid-qatab",
+    "found": false,
+    "detail": null
+  }
+]

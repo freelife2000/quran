@@ -1,0 +1,16 @@
+{
+  "resource_id": 796,
+  "fetched_at": 1770137059,
+  "resource_info": {
+    "id": 796,
+    "name": "Baba Mamady Jani",
+    "author_name": "Baba Mamady Jani",
+    "slug": null,
+    "language_name": "bambara",
+    "translated_name": {
+      "name": "Baba Mamady Jani",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

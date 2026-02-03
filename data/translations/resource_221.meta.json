@@ -1,0 +1,16 @@
+{
+  "resource_id": 221,
+  "fetched_at": 1770137049,
+  "resource_info": {
+    "id": 221,
+    "name": "Hasan Abdul-Karim",
+    "author_name": "Hasan Abdul-Karim",
+    "slug": null,
+    "language_name": "vietnamese",
+    "translated_name": {
+      "name": "Hasan Abdul-Karim",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

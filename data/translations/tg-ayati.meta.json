@@ -1,0 +1,16 @@
+{
+  "resource_id": 74,
+  "fetched_at": 1770137034,
+  "resource_info": {
+    "id": 74,
+    "name": "Tajik",
+    "author_name": "AbdolMohammad Ayati",
+    "slug": "tg-ayati",
+    "language_name": "tajik",
+    "translated_name": {
+      "name": "Tajik",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

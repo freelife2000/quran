@@ -1,0 +1,16 @@
+{
+  "resource_id": 120,
+  "fetched_at": 1770137052,
+  "resource_info": {
+    "id": 120,
+    "name": "Shaykh Rafeequl Islam Habibur-Rahman",
+    "author_name": "Shaykh Rafeequl Islam Habibur-Rahman",
+    "slug": null,
+    "language_name": "assamese",
+    "translated_name": {
+      "name": "Shaykh Rafeequl Islam Habibur-Rahman",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

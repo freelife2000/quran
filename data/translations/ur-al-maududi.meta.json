@@ -1,0 +1,16 @@
+{
+  "resource_id": 97,
+  "fetched_at": 1770137015,
+  "resource_info": {
+    "id": 97,
+    "name": "Tafheem e Qur'an - Syed Abu Ali Maududi",
+    "author_name": "Syed Abu Ali Maududi",
+    "slug": "ur-al-maududi",
+    "language_name": "urdu",
+    "translated_name": {
+      "name": "Tafheem e Qur'an - Syed Abu Ali Maududi",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

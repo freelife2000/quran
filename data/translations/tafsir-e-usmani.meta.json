@@ -1,0 +1,16 @@
+{
+  "resource_id": 151,
+  "fetched_at": 1770137014,
+  "resource_info": {
+    "id": 151,
+    "name": "Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani)",
+    "author_name": "Shaykh al-Hind Mahmud al-Hasan",
+    "slug": "tafsir-e-usmani",
+    "language_name": "urdu",
+    "translated_name": {
+      "name": "Shaykh al-Hind Mahmud al-Hasan(with Tafsir E Usmani)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

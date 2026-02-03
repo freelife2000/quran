@@ -1,0 +1,447 @@
+[
+  {
+    "resource_id": 81,
+    "slug": "ku-burhan-muhammad",
+    "error": "Verse count mismatch: translation has 6235 items, quran.json has 6236"
+  },
+  {
+    "resource_id": 81,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 203,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 151,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 158,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 97,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 136,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 135,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 139,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 35,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 134,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 153,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 161,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 163,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 162,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 210,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 211,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 217,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 229,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 55,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 143,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 141,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 140,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 214,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 227,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 226,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 233,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 225,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 224,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 232,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 235,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 231,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 230,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 223,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 222,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 220,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 144,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 88,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 87,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 50,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 49,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 48,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 128,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 45,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 77,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 39,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 36,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 30,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 26,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 103,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 74,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 23,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 101,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 53,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 47,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 44,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 42,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 41,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 237,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 106,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 236,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 238,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 125,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 124,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 46,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 113,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 112,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 38,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 89,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 56,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 32,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 108,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 37,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 43,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 51,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 111,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 115,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 31,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 29,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 208,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 209,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 133,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 25,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 221,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 219,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 52,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 213,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 199,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 218,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 228,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 126,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 122,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 120,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 127,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 118,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 109,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 27,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 33,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 831,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 819,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 771,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 785,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 840,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 795,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 779,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 782,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 796,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 798,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 774,
+    "error": "No module named 'scripts'"
+  },
+  {
+    "resource_id": 81,
+    "error": "Verse count mismatch: translation has 6235 items, quran.json has 6236"
+  },
+  {
+    "resource_id": 106,
+    "error": "Verse count mismatch: translation has 6030 items, quran.json has 6236"
+  }
+]

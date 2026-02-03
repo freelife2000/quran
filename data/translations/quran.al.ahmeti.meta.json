@@ -1,0 +1,16 @@
+{
+  "resource_id": 89,
+  "fetched_at": 1770137042,
+  "resource_info": {
+    "id": 89,
+    "name": "Albanian Translation",
+    "author_name": "Sherif Ahmeti\t",
+    "slug": "quran.al.ahmeti",
+    "language_name": "albanian",
+    "translated_name": {
+      "name": "Albanian Translation",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

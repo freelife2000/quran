@@ -1,0 +1,178 @@
+[
+  {
+    "resource_id": 203,
+    "filename": "Al-Hilali___Khan",
+    "name": "Al-Hilali & Khan",
+    "author": "Muhammad Taqi-ud-Din al-Hilali & Muhammad Muhsin Khan",
+    "slug": "Al-Hilali___Khan",
+    "suggested_check_url": "https://quran.com/resources/translations/Al-Hilali___Khan"
+  },
+  {
+    "resource_id": 75,
+    "filename": "az-alikhan",
+    "name": "Alikhan Musayev",
+    "author": "Alikhan Musayev",
+    "slug": "az-alikhan",
+    "suggested_check_url": "https://quran.com/resources/translations/az-alikhan"
+  },
+  {
+    "resource_id": 149,
+    "filename": "bridges-translation",
+    "name": "Fadel Soliman, Bridges’ translation",
+    "author": "Fadel Soliman",
+    "slug": "bridges-translation",
+    "suggested_check_url": "https://quran.com/resources/translations/bridges-translation"
+  },
+  {
+    "resource_id": 86,
+    "filename": "dv-unknow",
+    "name": "Office of the president of Maldives",
+    "author": "Office of the president of Maldives",
+    "slug": "dv-unknow",
+    "suggested_check_url": "https://quran.com/resources/translations/dv-unknow"
+  },
+  {
+    "resource_id": 95,
+    "filename": "en-al-maududi",
+    "name": "A. Maududi (Tafhim commentary)",
+    "author": "Sayyid Abul Ala Maududi",
+    "slug": "en-al-maududi",
+    "suggested_check_url": "https://quran.com/resources/translations/en-al-maududi"
+  },
+  {
+    "resource_id": 85,
+    "filename": "en-haleem",
+    "name": "M.A.S. Abdel Haleem",
+    "author": "Abdul Haleem",
+    "slug": "en-haleem",
+    "suggested_check_url": "https://quran.com/resources/translations/en-haleem"
+  },
+  {
+    "resource_id": 20,
+    "filename": "en-sahih-international",
+    "name": "Saheeh International",
+    "author": "Saheeh International",
+    "slug": "en-sahih-international",
+    "suggested_check_url": "https://quran.com/resources/translations/en-sahih-international"
+  },
+  {
+    "resource_id": 84,
+    "filename": "en-taqi-usmani",
+    "name": "T. Usmani",
+    "author": "Mufti Taqi Usmani",
+    "slug": "en-taqi-usmani",
+    "suggested_check_url": "https://quran.com/resources/translations/en-taqi-usmani"
+  },
+  {
+    "resource_id": 83,
+    "filename": "es-isa-garcia",
+    "name": "Sheikh Isa Garcia",
+    "author": "Sheikh Isa Garcia",
+    "slug": "es-isa-garcia",
+    "suggested_check_url": "https://quran.com/resources/translations/es-isa-garcia"
+  },
+  {
+    "resource_id": 80,
+    "filename": "ml-karakunnu",
+    "name": "Muhammad Karakunnu and Vanidas Elayavoor",
+    "author": "Muhammad Karakunnu and Vanidas Elayavoor",
+    "slug": "ml-karakunnu",
+    "suggested_check_url": "https://quran.com/resources/translations/ml-karakunnu"
+  },
+  {
+    "resource_id": 19,
+    "filename": "quran.en.pickthall",
+    "name": "M. Pickthall",
+    "author": "Mohammed Marmaduke William Pickthall",
+    "slug": "quran.en.pickthall",
+    "suggested_check_url": "https://quran.com/resources/translations/quran.en.pickthall"
+  },
+  {
+    "resource_id": 22,
+    "filename": "quran.en.yusufali",
+    "name": "A. Yusuf Ali",
+    "author": "Abdullah Yusuf Ali",
+    "slug": "quran.en.yusufali",
+    "suggested_check_url": "https://quran.com/resources/translations/quran.en.yusufali"
+  },
+  {
+    "resource_id": 19,
+    "filename": null,
+    "name": "",
+    "author": "",
+    "slug": null,
+    "suggested_check_url": "https://quran.com/resources/translations/None"
+  },
+  {
+    "resource_id": 20,
+    "filename": null,
+    "name": "",
+    "author": "",
+    "slug": null,
+    "suggested_check_url": "https://quran.com/resources/translations/None"
+  },
+  {
+    "resource_id": 22,
+    "filename": null,
+    "name": "",
+    "author": "",
+    "slug": null,
+    "suggested_check_url": "https://quran.com/resources/translations/None"
+  },
+  {
+    "resource_id": 79,
+    "filename": "ru-abu-adel",
+    "name": "Abu Adel",
+    "author": "Abu Adel",
+    "slug": "ru-abu-adel",
+    "suggested_check_url": "https://quran.com/resources/translations/ru-abu-adel"
+  },
+  {
+    "resource_id": 78,
+    "filename": "ru-ministry-of-awqaf",
+    "name": "Ministry of Awqaf, Egypt",
+    "author": "Ministry of Awqaf, Egypt",
+    "slug": "ru-ministry-of-awqaf",
+    "suggested_check_url": "https://quran.com/resources/translations/ru-ministry-of-awqaf"
+  },
+  {
+    "resource_id": 57,
+    "filename": "transliteration",
+    "name": "Transliteration",
+    "author": "Transliteration",
+    "slug": "transliteration",
+    "suggested_check_url": "https://quran.com/resources/translations/transliteration"
+  },
+  {
+    "resource_id": 76,
+    "filename": "ug-saleh",
+    "name": "Muhammad Saleh",
+    "author": "Muhammad Saleh",
+    "slug": "ug-saleh",
+    "suggested_check_url": "https://quran.com/resources/translations/ug-saleh"
+  },
+  {
+    "resource_id": 234,
+    "filename": "ur-fatah-muhammad-jalandhari",
+    "name": "Fatah Muhammad Jalandhari",
+    "author": "Fatah Muhammad Jalandhari",
+    "slug": "ur-fatah-muhammad-jalandhari",
+    "suggested_check_url": "https://quran.com/resources/translations/ur-fatah-muhammad-jalandhari"
+  },
+  {
+    "resource_id": 54,
+    "filename": "ur-junagarri",
+    "name": "Maulana Muhammad Junagarhi",
+    "author": "Maulana Muhammad Junagarhi",
+    "slug": "ur-junagarri",
+    "suggested_check_url": "https://quran.com/resources/translations/ur-junagarri"
+  },
+  {
+    "resource_id": 156,
+    "filename": "urdu-sayyid-qatab",
+    "name": "Fe Zilal al-Qur'an",
+    "author": "Sayyid Ibrahim Qutb",
+    "slug": "urdu-sayyid-qatab",
+    "suggested_check_url": "https://quran.com/resources/translations/urdu-sayyid-qatab"
+  }
+]

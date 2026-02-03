@@ -1,0 +1,16 @@
+{
+  "resource_id": 31,
+  "fetched_at": 1770137046,
+  "resource_info": {
+    "id": 31,
+    "name": "Muhammad Hamidullah",
+    "author_name": "Muhammad Hamidullah",
+    "slug": "quran.fr.hamidullah",
+    "language_name": "french",
+    "translated_name": {
+      "name": "Muhammad Hamidullah",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

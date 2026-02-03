@@ -1,0 +1,16 @@
+{
+  "resource_id": 161,
+  "fetched_at": 1770137018,
+  "resource_info": {
+    "id": 161,
+    "name": "Taisirul Quran",
+    "author_name": "Tawheed Publication",
+    "slug": "bn-taisirul-quran",
+    "language_name": "bengali",
+    "translated_name": {
+      "name": "Taisirul Quran",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 134,
+  "fetched_at": 1770137017,
+  "resource_info": {
+    "id": 134,
+    "name": "King Fahad Quran Complex",
+    "author_name": "King Fahad Quran Complex",
+    "slug": null,
+    "language_name": "indonesian",
+    "translated_name": {
+      "name": "King Fahad Quran Complex",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

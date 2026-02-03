@@ -1,0 +1,16 @@
+{
+  "resource_id": 840,
+  "fetched_at": 1770137057,
+  "resource_info": {
+    "id": 840,
+    "name": "Abu Bakr Ibrahim Ali (Bakurube)",
+    "author_name": "Abu Bakr Ibrahim Ali",
+    "slug": "ml-shaikh-aboobakr-ibrahim-ali",
+    "language_name": "divehi",
+    "translated_name": {
+      "name": "Abu Bakr Ibrahim Ali (Bakurube)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

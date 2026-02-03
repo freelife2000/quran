@@ -1,0 +1,16 @@
+{
+  "resource_id": 45,
+  "fetched_at": 1770137031,
+  "resource_info": {
+    "id": 45,
+    "name": "Russian Translation ( Elmir Kuliev )",
+    "author_name": "Elmir Kuliev",
+    "slug": "quran.ru.kuliev",
+    "language_name": "russian",
+    "translated_name": {
+      "name": "Russian Translation ( Elmir Kuliev )",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

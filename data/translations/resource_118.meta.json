@@ -1,0 +1,16 @@
+{
+  "resource_id": 118,
+  "fetched_at": 1770137053,
+  "resource_info": {
+    "id": 118,
+    "name": "Zakaria Abulsalam",
+    "author_name": "Zakaria Abulsalam",
+    "slug": null,
+    "language_name": "pashto",
+    "translated_name": {
+      "name": "Zakaria Abulsalam",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

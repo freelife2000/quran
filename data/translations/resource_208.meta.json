@@ -1,0 +1,16 @@
+{
+  "resource_id": 208,
+  "fetched_at": 1770137047,
+  "resource_info": {
+    "id": 208,
+    "name": "Abu Reda Muhammad ibn Ahmad",
+    "author_name": "Abu Reda Muhammad ibn Ahmad",
+    "slug": null,
+    "language_name": "german",
+    "translated_name": {
+      "name": "Abu Reda Muhammad ibn Ahmad",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 108,
+  "fetched_at": 1770137043,
+  "resource_info": {
+    "id": 108,
+    "name": "Ahl Al-Hadith Central Society of Nepal",
+    "author_name": "Ahl Al-Hadith Central Society of Nepal",
+    "slug": null,
+    "language_name": "nepali",
+    "translated_name": {
+      "name": "Ahl Al-Hadith Central Society of Nepal",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

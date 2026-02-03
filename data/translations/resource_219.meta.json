@@ -1,0 +1,16 @@
+{
+  "resource_id": 219,
+  "fetched_at": 1770137049,
+  "resource_info": {
+    "id": 219,
+    "name": "Hamed Choi",
+    "author_name": "Hamed Choi",
+    "slug": null,
+    "language_name": "korean",
+    "translated_name": {
+      "name": "Hamed Choi",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

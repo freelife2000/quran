@@ -1,0 +1,16 @@
+{
+  "resource_id": 235,
+  "fetched_at": 1770137026,
+  "resource_info": {
+    "id": 235,
+    "name": "Malak Faris Abdalsalaam",
+    "author_name": "Malak Faris Abdalsalaam",
+    "slug": "nl-abdalsalaam",
+    "language_name": "dutch",
+    "translated_name": {
+      "name": "Malak Faris Abdalsalaam",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 30,
+  "fetched_at": 1770137033,
+  "resource_info": {
+    "id": 30,
+    "name": "Finnish",
+    "author_name": "Finnish",
+    "slug": "fi-unknown",
+    "language_name": "finnish",
+    "translated_name": {
+      "name": "Finnish",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

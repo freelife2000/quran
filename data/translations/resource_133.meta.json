@@ -1,0 +1,16 @@
+{
+  "resource_id": 133,
+  "fetched_at": 1770137048,
+  "resource_info": {
+    "id": 133,
+    "name": "Abdul Hameed Baqavi",
+    "author_name": "Abdul Hameed Baqavi",
+    "slug": null,
+    "language_name": "tamil",
+    "translated_name": {
+      "name": "Abdul Hameed Baqavi",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 222,
+  "fetched_at": 1770137028,
+  "resource_info": {
+    "id": 222,
+    "name": "Khalifa Altay",
+    "author_name": "Khalifa Altay",
+    "slug": null,
+    "language_name": "kazakh",
+    "translated_name": {
+      "name": "Khalifa Altay",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

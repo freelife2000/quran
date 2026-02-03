@@ -1,0 +1,16 @@
+{
+  "resource_id": 141,
+  "fetched_at": 1770137022,
+  "resource_info": {
+    "id": 141,
+    "name": "The Sabiq Company",
+    "author_name": "The Sabiq company",
+    "slug": "",
+    "language_name": "indonesian",
+    "translated_name": {
+      "name": "The Sabiq Company",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

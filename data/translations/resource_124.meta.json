@@ -1,0 +1,16 @@
+{
+  "resource_id": 124,
+  "fetched_at": 1770137040,
+  "resource_info": {
+    "id": 124,
+    "name": "Muslim Shahin",
+    "author_name": "Muslim Shahin",
+    "slug": null,
+    "language_name": "turkish",
+    "translated_name": {
+      "name": "Muslim Shahin",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

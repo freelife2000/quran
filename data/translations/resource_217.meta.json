@@ -1,0 +1,16 @@
+{
+  "resource_id": 217,
+  "fetched_at": 1770137020,
+  "resource_info": {
+    "id": 217,
+    "name": "Dr. Mikhailo Yaqubovic",
+    "author_name": "Dr. Mikhailo Yaqubovic",
+    "slug": null,
+    "language_name": "ukrainian",
+    "translated_name": {
+      "name": "Dr. Mikhailo Yaqubovic",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

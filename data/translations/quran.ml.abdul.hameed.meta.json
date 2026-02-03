@@ -1,0 +1,16 @@
+{
+  "resource_id": 37,
+  "fetched_at": 1770137044,
+  "resource_info": {
+    "id": 37,
+    "name": "Malayalam Translation(Abdul Hameed and Kunhi)",
+    "author_name": "Cheriyamundam Abdul Hameed and Kunhi Mohammed Parappoor",
+    "slug": "quran.ml.abdul.hameed",
+    "language_name": "malayalam",
+    "translated_name": {
+      "name": "Malayalam Translation(Abdul Hameed and Kunhi)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

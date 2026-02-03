@@ -1,0 +1,16 @@
+{
+  "resource_id": 831,
+  "fetched_at": 1770137055,
+  "resource_info": {
+    "id": 831,
+    "name": "Abul Ala Maududi(Roman Urdu)",
+    "author_name": "Abul Ala Maududi",
+    "slug": "maududi-roman-urdu",
+    "language_name": "urdu",
+    "translated_name": {
+      "name": "Abul Ala Maududi(Roman Urdu)",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

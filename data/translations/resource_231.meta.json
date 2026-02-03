@@ -1,0 +1,16 @@
+{
+  "resource_id": 231,
+  "fetched_at": 1770137026,
+  "resource_info": {
+    "id": 231,
+    "name": "Dr. Abdullah Muhammad Abu Bakr and Sheikh Nasir Khamis",
+    "author_name": "Dr. Abdullah Muhammad Abu Bakr and Sheikh Nasir Khamis",
+    "slug": "",
+    "language_name": "swahili",
+    "translated_name": {
+      "name": "Dr. Abdullah Muhammad Abu Bakr and Sheikh Nasir Khamis",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

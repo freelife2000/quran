@@ -1,0 +1,13 @@
+{
+  "resource_id": 20,
+  "license_scan": {
+    "checked_at": 1770137124,
+    "found": null,
+    "checked_urls": [
+      {
+        "url": "https://quran.com/resources/translations/20",
+        "status_code": 404
+      }
+    ]
+  }
+}

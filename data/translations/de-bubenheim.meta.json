@@ -1,0 +1,16 @@
+{
+  "resource_id": 27,
+  "fetched_at": 1770137054,
+  "resource_info": {
+    "id": 27,
+    "name": "Frank Bubenheim and Nadeem",
+    "author_name": "Frank Bubenheim and Nadeem",
+    "slug": "de-bubenheim",
+    "language_name": "german",
+    "translated_name": {
+      "name": "Frank Bubenheim and Nadeem",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

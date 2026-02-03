@@ -1,0 +1,16 @@
+{
+  "resource_id": 225,
+  "fetched_at": 1770137025,
+  "resource_info": {
+    "id": 225,
+    "name": "Rabila Al-Umry",
+    "author_name": "Rabila Al-Umry",
+    "slug": null,
+    "language_name": "gujarati",
+    "translated_name": {
+      "name": "Rabila Al-Umry",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

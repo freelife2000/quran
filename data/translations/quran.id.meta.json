@@ -1,0 +1,16 @@
+{
+  "resource_id": 33,
+  "fetched_at": 1770137055,
+  "resource_info": {
+    "id": 33,
+    "name": "Indonesian Islamic Affairs Ministry",
+    "author_name": "Unknown",
+    "slug": "quran.id",
+    "language_name": "indonesian",
+    "translated_name": {
+      "name": "Indonesian Islamic Affairs Ministry",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

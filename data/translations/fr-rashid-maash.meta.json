@@ -1,0 +1,16 @@
+{
+  "resource_id": 779,
+  "fetched_at": 1770137058,
+  "resource_info": {
+    "id": 779,
+    "name": "Rashid Maash",
+    "author_name": "Rashid Maash",
+    "slug": "fr-rashid-maash",
+    "language_name": "french",
+    "translated_name": {
+      "name": "Rashid Maash",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

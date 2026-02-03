@@ -1,0 +1,16 @@
+{
+  "resource_id": 88,
+  "fetched_at": 1770137029,
+  "resource_info": {
+    "id": 88,
+    "name": "Hasan Efendi Nahi",
+    "author_name": "Hasan Efendi Nahi",
+    "slug": "al-hasan-efendi",
+    "language_name": "albanian",
+    "translated_name": {
+      "name": "Hasan Efendi Nahi",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

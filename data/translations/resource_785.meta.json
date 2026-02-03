@@ -1,0 +1,16 @@
+{
+  "resource_id": 785,
+  "fetched_at": 1770137056,
+  "resource_info": {
+    "id": 785,
+    "name": "Mawlawi Muhammad Anwar Badkhashani",
+    "author_name": "Mawlawi Muhammad Anwar Badkhashani",
+    "slug": null,
+    "language_name": "dari",
+    "translated_name": {
+      "name": "Mawlawi Muhammad Anwar Badkhashani",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

@@ -1,0 +1,16 @@
+{
+  "resource_id": 209,
+  "fetched_at": 1770137047,
+  "resource_info": {
+    "id": 209,
+    "name": "Othman al-Sharif",
+    "author_name": "Othman al-Sharif",
+    "slug": null,
+    "language_name": "italian",
+    "translated_name": {
+      "name": "Othman al-Sharif",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}

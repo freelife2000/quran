@@ -1,0 +1,16 @@
+{
+  "resource_id": 52,
+  "fetched_at": 1770137049,
+  "resource_info": {
+    "id": 52,
+    "name": "Elmalili Hamdi Yazir",
+    "author_name": "Elmalili Hamdi Yazir\t",
+    "slug": "tr-hamdi",
+    "language_name": "turkish",
+    "translated_name": {
+      "name": "Elmalili Hamdi Yazir",
+      "language_name": "english"
+    }
+  },
+  "source": "quran.com API"
+}
