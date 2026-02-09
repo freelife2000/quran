@@ -1,0 +1,17 @@
+{
+  "description": "Prayer times (Salah times) - Example data for demonstration",
+  "note": "Replace with actual prayer times API integration (e.g., using location or city-based calculation)",
+  "languages": {"ar": "عربي", "en": "English", "fr": "Français", "es": "Español", "de": "Deutsch", "pt": "Português", "tr": "Türkçe", "ur": "اردو"},
+  "sample_city": "Cairo, Egypt",
+  "date": "2026-02-05",
+  "times": {
+    "Fajr": {"ar": "الفجر", "time": "05:16", "athan": true},
+    "Sunrise": {"ar": "الشروق", "time": "06:42", "athan": false},
+    "Dhuhr": {"ar": "الظهر", "time": "12:18", "athan": true},
+    "Asr": {"ar": "العصر", "time": "15:34", "athan": true},
+    "Maghrib": {"ar": "المغرب", "time": "18:04", "athan": true},
+    "Isha": {"ar": "العشاء", "time": "19:24", "athan": true}
+  },
+  "hijri_date": "14/8/1447",
+  "islamic_day": "Thursday (Yawm al-Khamis)"
+}

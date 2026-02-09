@@ -1,0 +1,11 @@
+.env
+node_modules/
+.expo/
+dist/
+build/
+*.apk
+*.ipa
+*.keystore
+.DS_Store
+.env.local
+.env.*.local

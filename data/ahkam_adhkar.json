@@ -1,0 +1,33 @@
+{
+  "description": "Sample Islamic Rulings and Adhkaar (Remembrances) - Multi-language support",
+  "categories": {
+    "morning_adhkar": {
+      "ar": "أذكار الصباح",
+      "en": "Morning Remembrances",
+      "fr": "Évocations du Matin",
+      "items": [
+        {"text_ar": "الحمد لله حمداً كثيراً طيباً مباركاً فيه", "text_en": "All praise is due to Allah with abundant, good, and blessed praise", "count": 3},
+        {"text_ar": "سبحان الله وبحمده", "text_en": "Glory be to Allah and Praise be to Him", "count": 100},
+        {"text_ar": "استغفر الله وأتوب إليه", "text_en": "I seek forgiveness from Allah and repent to Him", "count": 3}
+      ]
+    },
+    "evening_adhkar": {
+      "ar": "أذكار المساء",
+      "en": "Evening Remembrances",
+      "fr": "Évocations du Soir",
+      "items": [
+        {"text_ar": "الحمد لله الذي أمسينا وأمسى الملك لله", "text_en": "All praise is due to Allah for reaching the evening", "count": 1},
+        {"text_ar": "يا حي يا قيوم برحمتك أستغيث", "text_en": "O Living, O Self-Sustaining, by Your mercy I seek help", "count": 3}
+      ]
+    },
+    "rulings": {
+      "ar": "أحكام عامة",
+      "en": "General Rulings",
+      "fr": "Décisions Générales",
+      "items": [
+        {"title_ar": "فرائض الوضوء", "title_en": "Obligations of Ablution", "description_ar": "النية والغسل والمسح والترتيب والموالاة", "description_en": "Intention, washing, wiping, order, and continuity"},
+        {"title_ar": "أركان الصلاة", "title_en": "Pillars of Prayer", "description_ar": "النية والتكبيرة والقيام والقراءة والركوع والسجود", "description_en": "Intention, takbir, standing, recitation, bowing, prostration"}
+      ]
+    }
+  }
+}

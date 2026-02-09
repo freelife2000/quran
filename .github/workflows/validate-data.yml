@@ -1,0 +1,28 @@
+name: Validate translation data
+
+on:
+  push:
+    paths:
+      - 'data/translations/**'
+      - 'scripts/validate_translations.py'
+  pull_request:
+    paths:
+      - 'data/translations/**'
+      - 'scripts/validate_translations.py'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+      - name: Install deps
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Run translation validator
+        run: |
+          python scripts/validate_translations.py

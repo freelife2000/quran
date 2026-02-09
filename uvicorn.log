@@ -1,0 +1,11 @@
+INFO:     Will watch for changes in these directories: ['/workspaces/quran']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [30053] using WatchFiles
+INFO:     Started server process [30057]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:50748 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58402 - "GET /api/prayer-times HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51682 - "GET /api/ahkam-adhkar HTTP/1.1" 200 OK
+INFO:     127.0.0.1:47700 - "GET /api/verse/1/1 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:40416 - "GET /api/verse/1/1?translation=en-sahih-international HTTP/1.1" 200 OK

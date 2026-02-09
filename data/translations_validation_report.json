@@ -1,0 +1,824 @@
+[
+  {
+    "file": "Al-Hilali___Khan.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "al-hasan-efendi.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "am-sadiq.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "az-alikhan.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "az-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "bayan-ul-quran.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "bn-rawai-al-bayan.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "bn-sheikh-mujibur-rahman.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "bn-taisirul-quran.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "bridges-translation.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "bs-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "cs-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "de-bubenheim.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "dv-unknow.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "en-al-maududi.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "en-haleem.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "en-sahih-international.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "en-taqi-usmani.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "en_example.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "es-isa-garcia.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "fetch_errors.json",
+    "ok": false,
+    "errors": [
+      "top-level-not-dict"
+    ],
+    "warnings": []
+  },
+  {
+    "file": "fi-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "fr-hussein-taji.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "fr-rashid-maash.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "hamza-roberto-piccardo.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ja-ryoichi-mita.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "kannada-quran.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ko-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "license_review_list.json",
+    "ok": false,
+    "errors": [
+      "top-level-not-dict"
+    ],
+    "warnings": []
+  },
+  {
+    "file": "license_scan_report.json",
+    "ok": false,
+    "errors": [
+      "top-level-not-dict"
+    ],
+    "warnings": []
+  },
+  {
+    "file": "maududi-roman-urdu.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "maulana-wahid-uddin-khan-urdu.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ml-karakunnu.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ml-shaikh-aboobakr-ibrahim-ali.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "mrn-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ms-abdullah.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "nl-abdalsalaam.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "nl_sofian_s._siregar.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "no-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "pl-jozef-bielawski.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran,pt.samir.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.al.ahmeti.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.en.pickthall.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.en.yusufali.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.fr.hamidullah.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.ha.abubakar.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.id.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.ml.abdul.hameed.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.ru.kuliev.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.th.quran.complex.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.tr.diyanet.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.uz.sodik.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran.zh.ma.jain.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "quran_com_translations_index.json",
+    "ok": false,
+    "errors": [
+      "top-level-not-dict"
+    ],
+    "warnings": []
+  },
+  {
+    "file": "resource_101.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_103.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_108.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_109.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_111.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_112.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_113.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_115.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_118.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_120.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_122.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_124.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_125.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_126.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_127.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_128.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_133.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_134.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_135.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_136.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_139.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_140.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_141.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_143.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_19.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_199.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_20.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_203.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_208.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_209.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_210.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_211.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_213.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_214.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_217.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_218.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_219.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_22.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_220.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_221.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_222.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_223.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_224.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_225.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_226.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_227.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_228.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_229.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_230.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_231.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_232.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_233.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_236.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_237.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_238.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_774.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_782.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_785.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_795.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_796.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "resource_798.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ro-grigore.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ru-abu-adel.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ru-ministry-of-awqaf.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "so-mahmud-abduh.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "sq-unknown.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "sv-knut.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "sw-ali-muhsin.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ta-jan-trust.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "tafsir-e-usmani.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "tg-ayati.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "tr-hamdi.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "transliteration.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "trusted_translations.json",
+    "ok": false,
+    "errors": [
+      "top-level keys not numeric-strings (sample: ['count', 'missing_meta', 'translations'])"
+    ],
+    "warnings": []
+  },
+  {
+    "file": "tt-unknow.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ug-saleh.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ur-al-maududi.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ur-fatah-muhammad-jalandhari.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "ur-junagarri.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "urdu-sayyid-qatab.json",
+    "ok": true,
+    "errors": [],
+    "warnings": []
+  },
+  {
+    "file": "validation_report.json",
+    "ok": false,
+    "errors": [
+      "top-level-not-dict"
+    ],
+    "warnings": []
+  }
+]
